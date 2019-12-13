@@ -1,4 +1,4 @@
-__author__ = 'angad'
+__author__ = 'aelriedy'
 
 from os import walk, path
 import pandas as pd
