@@ -1,4 +1,4 @@
-__author__ = 'angad'
+__author__ = 'aelriedy'
 
 import pre_process
 import pca
