@@ -1,4 +1,4 @@
-__author__ = 'angad'
+__author__ = 'aelriedy'
 
 import numpy as np
 from sklearn.decomposition import PCA
